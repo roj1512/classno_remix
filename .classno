@@ -1,0 +1,4 @@
+{
+  "paths": ["app/**/*.tsx"],
+  "out": "app/styles/main.css"
+}
