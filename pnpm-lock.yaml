@@ -8,7 +8,7 @@ specifiers:
   '@remix-run/serve': ^1.14.3
   '@types/react': ^18.0.25
   '@types/react-dom': ^18.0.8
-  classno: 0.0.0-alpha.1
+  classno: 0.0.0-alpha.3
   eslint: ^8.27.0
   isbot: ^3.6.5
   react: ^18.2.0
@@ -28,7 +28,7 @@ devDependencies:
   '@remix-run/eslint-config': 1.14.3_g4ssdyyxd6zhf5tqd24yazbeaq
   '@types/react': 18.0.28
   '@types/react-dom': 18.0.11
-  classno: 0.0.0-alpha.1
+  classno: 0.0.0-alpha.3
   eslint: 8.36.0
   typescript: 4.9.5
 
@@ -2958,8 +2958,8 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /classno/0.0.0-alpha.1:
-    resolution: {integrity: sha512-Xy4mdQ+fLi5c8vN9bt7McuTLpNF9wRCs/PiYMG3VDQfiVR4PLaEl1zcb+tY51Xrve1DwItq4YLisV8gU8Kh+3g==}
+  /classno/0.0.0-alpha.3:
+    resolution: {integrity: sha512-G/Fp72HPf51H16jKnm0uMmmAllHAFTeZpekpER2heoRf8yfk631f2PupVkw5DwtTkIGGfMEt6H+1y6vlI6c/Zw==}
     hasBin: true
     dependencies:
       stylus: 0.59.0
