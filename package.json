@@ -20,7 +20,7 @@
     "@remix-run/eslint-config": "^1.14.3",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.8",
-    "classno": "0.0.0-alpha.7",
+    "classno": "0.0.0-alpha.8",
     "concurrently": "^7.6.0",
     "eslint": "^8.27.0",
     "typescript": "^4.8.4"

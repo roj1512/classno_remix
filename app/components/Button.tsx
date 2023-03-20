@@ -1,17 +1,14 @@
 import classno from "classno";
 
-const className = classno(
-  "button",
-  `
+const button = classno`${"button"}
   background-color blue
   font-size 5rem
 
   & {
     color red
   }
-`
-);
+`;
 
 export default function Button() {
-  return <button className={className}>Button</button>;
+  return <button className={button}>Button</button>;
 }

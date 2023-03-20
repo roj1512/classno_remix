@@ -7,7 +7,14 @@ import {
   Scripts,
   ScrollRestoration,
 } from "@remix-run/react";
+import classno from "classno";
 import main from "~/styles/main.css";
+
+classno`
+  html {
+    scroll-behavior: smooth;
+  }
+`;
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",

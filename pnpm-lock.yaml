@@ -8,7 +8,7 @@ specifiers:
   '@remix-run/serve': ^1.14.3
   '@types/react': ^18.0.25
   '@types/react-dom': ^18.0.8
-  classno: 0.0.0-alpha.7
+  classno: 0.0.0-alpha.8
   concurrently: ^7.6.0
   eslint: ^8.27.0
   isbot: ^3.6.5
@@ -29,7 +29,7 @@ devDependencies:
   '@remix-run/eslint-config': 1.14.3_g4ssdyyxd6zhf5tqd24yazbeaq
   '@types/react': 18.0.28
   '@types/react-dom': 18.0.11
-  classno: 0.0.0-alpha.7
+  classno: 0.0.0-alpha.8
   concurrently: 7.6.0
   eslint: 8.36.0
   typescript: 4.9.5
@@ -2960,8 +2960,8 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /classno/0.0.0-alpha.7:
-    resolution: {integrity: sha512-aHxTxw2L6jhbZ4PTwxLU/afoS1TM+vdftKZodMNsmP06vneedwjB7gtjrRpBMPBf4wQPq8VstlnLyjOcATm4hg==}
+  /classno/0.0.0-alpha.8:
+    resolution: {integrity: sha512-MV5SrNi8CA3ymxCxvgM3EThyMliQHbyqrPdRXuIlMl/hT9vl1DuAaSIE32AHQOynx/5pJ7p9mHFkxGR9dUijCQ==}
     hasBin: true
     dependencies:
       chokidar: 3.5.3
